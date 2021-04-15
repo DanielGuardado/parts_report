@@ -1,0 +1,823 @@
+SO #,Customer,Date Issued,Date Completed,SO Status,SO Tax,Part Number,Alias Number,Qty Ordered,Unit Price
+058882,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0355,,1,
+058882,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,B0355,,1,
+058882,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,D0355,,1,
+058887,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,D0120,SD0120,1,
+058889,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0331/B0331,SA0331/B0331,1,
+058890,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A1043,,1,
+058890,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,B1043,,1,
+058891,MN Global LLC,03/31/2021,03/31/2021,Complete,,A0400,,1,
+058891,MN Global LLC,03/31/2021,03/31/2021,Complete,,B0400,,1,
+058892,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0400,,1,
+058892,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,B0400,,1,
+058903,MN Global LLC,03/31/2021,03/31/2021,Complete,,A0270,,1,
+058903,MN Global LLC,03/31/2021,03/31/2021,Complete,,B0270,,1,
+058903,MN Global LLC,03/31/2021,03/31/2021,Complete,,D0431,,1,
+058907,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,D0128,SD0128,1,
+058916,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0312,,1,
+058916,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,B0312,,1,
+058917,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,B0350,SB0350,1,
+058918,MN Global LLC,03/31/2021,03/31/2021,Complete,,A0270,,1,
+058918,MN Global LLC,03/31/2021,03/31/2021,Complete,,B0270,,1,
+058919,MN Global LLC,03/31/2021,03/31/2021,Complete,,A0401,,1,
+058919,MN Global LLC,03/31/2021,03/31/2021,Complete,,B0400,,1,
+058920,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,B0400,,1,
+058920,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0400,,1,
+058921,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,B0071,,1,
+058921,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,E0113,,1,
+058921,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,C0071,,1,
+058921,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0315,,1,
+058922,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A1103,,1,
+058922,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,B1103,,1,
+058923,MN Global LLC,03/31/2021,03/31/2021,Complete,,A0400,,1,
+058923,MN Global LLC,03/31/2021,03/31/2021,Complete,,B0400,,1,
+058925,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0119,,1,
+058925,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,B0070,,1,
+058927,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,E0232,SE0232,1,
+058928,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0136,,1,
+058928,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,B0159,,1,
+058928,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,E0159,,1,
+058929,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0340,,1,
+058930,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0301,,1,
+058930,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,B0301,,1,
+058930,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,D0301,,1,
+058931,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0136/B0136,,1,
+058932,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,E0478,,1,
+058933,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,C0351,,1,
+058933,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,B0351,,1,
+058933,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0350,,1,
+058934,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0418,,1,
+058934,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,B0418,,1,
+058935,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,A0328,,1,
+058936,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,D0192,,1,
+058937,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,B0467,,1,
+058937,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,A0467,,1,
+058939,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0151,SA0151,1,
+058940,MN Global LLC,03/31/2021,03/31/2021,Complete,,A0150,SA0150,1,
+058941,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,,B0227,,1,
+058942,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0167,,1,
+058942,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,B0167,,1,
+059913,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,E0159,SE0159,1,
+060437,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,C0351,,1,
+060437,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,C0351,,1,30.49
+060437,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,B0351,,1,
+060437,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,B0351,,1,34.85
+060437,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0350,,1,
+060437,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0350,,1,47.5
+060486,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0043,,1,
+060486,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,B0044,,1,
+060486,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,E0162,,1,
+060487,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,E0082,,1,
+060487,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0161,,1,
+060487,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,C0082,,1,
+060487,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,B0082,,1,
+060511,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,A0131,,1,
+060511,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,B0131,,1,
+060513,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,,B0086,,1,
+060513,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,,A0086,,1,
+11122283-2,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,A0150/B0150,,1,74.11
+11122283-2,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+11122468,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0411/B0411,,1,74.11
+11122468,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11122781,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,D0431,,1,47.64
+11122781,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+11123060,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0289,,1,42.75
+11123060,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11123326,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0164/B0164,,1,74.11
+11123326,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11124072,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0022/B0041,,1,74.11
+11124072,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11124427,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,D0423,,1,47.64
+11124427,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+11124517,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0019/B0019,,1,74.11
+11124517,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11125275,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0226,,1,52.94
+11125275,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11125662,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0126/B0048,,1,74.11
+11125662,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11125772,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0121,,1,42.75
+11125772,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11125991,Auto Anything,04/01/2021,04/01/2021,Complete,0.0,A0226/B0148,,1,89.6
+11125991,Auto Anything,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+11126777,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0050,,1,42.75
+11126777,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11127155,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0250/B0250/D0386,,1,121.75
+11127155,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,27.0
+11127312,Auto Anything,04/01/2021,04/01/2021,Complete,0.0,B2083,,1,31.37
+11127312,Auto Anything,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+11127330,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0183/B0303/C0184,,1,106.06
+11127330,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11127459,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0296,,1,52.94
+11127459,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11127650,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0144,,1,42.75
+11127650,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11127730,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0131/B0131,,1,79.41
+11127730,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11128821,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0152/B0201,,1,87.35
+11128821,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11129259,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0178/B0178,,1,74.11
+11129259,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11129695,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0411/B0411/D0411,,1,121.75
+11129695,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,27.0
+11129795,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0164,,1,42.75
+11129795,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11130400,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0157,,1,42.75
+11130400,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11130606,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0193,,1,42.75
+11130606,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11130952,Auto Anything,03/30/2021,03/30/2021,Complete,0.0,A0176/B0176,,1,74.11
+11130952,Auto Anything,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+11131175,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0043/B0044/D0044,A0043/B0044-P/D0044,1,134.99
+11131175,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,27.0
+11131255,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,C0242,,1,31.95
+11131255,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11131500,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0036/B0036,,1,74.11
+11131500,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11131672,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0340/B0340/D0342,,1,121.75
+11131672,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,27.0
+11132371,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0192/B0192,,1,74.11
+11132371,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11132422,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,D0477,,1,47.64
+11132422,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+11132439,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0043/B0044,A0043/B0044-P,1,87.35
+11132439,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11132512,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,D0350,,1,47.64
+11132512,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+11132925,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,B0228,,1,31.37
+11132925,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11133036,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,A0178/B0178,,1,74.11
+11133036,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11133856,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,B0341,,1,31.37
+11133856,Auto Anything,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+11134570,Auto Anything,03/31/2021,04/01/2021,Complete,0.0,D0215,,1,47.64
+11134570,Auto Anything,03/31/2021,04/01/2021,Complete,0.0,Shipping,,1,15.0
+11135172,Auto Anything,03/31/2021,04/01/2021,Complete,0.0,B0343,,1,31.37
+11135172,Auto Anything,03/31/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+11135389,Auto Anything,03/31/2021,04/01/2021,Complete,0.0,D0114,,1,47.64
+11135389,Auto Anything,03/31/2021,04/01/2021,Complete,0.0,Shipping,,1,15.0
+11135573,Auto Anything,03/31/2021,04/01/2021,Complete,0.0,C0152,,1,31.95
+11135573,Auto Anything,03/31/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+11138815,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,D0452,,1,47.64
+11138815,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,15.0
+11139470,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,A0193/B0193/D0193,,1,121.75
+11139470,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,27.0
+11139512,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,A0203/B0239,,1,79.41
+11139512,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+11139614,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,A0411/B0411/D0411,,1,121.75
+11139614,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,27.0
+11139819,Auto Anything,04/02/2021,04/02/2021,Complete,0.0,A0266,,1,42.75
+1100779-1160328,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,B0203,,1,49.56
+1112460-1159277,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,B0523,,1,34.85
+1112460-1159277,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1112730-1160283,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0319/B0048,,1,93.67
+1112730-1160283,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1113166-1158718,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0429/B0429,,1,82.35
+1113166-1158718,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1114230-1153161-2,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1114230-1153161-2,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0504/B0242,,1,82.35
+1114293-1158807,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,B0148,,1,40.74
+1114293-1158807,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119350-1158766,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0136-P/B0221/C0166/E0159,,1,171.66
+1119350-1158766,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,23.0
+1119355-1158772,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0119/B0070,,1,82.35
+1119355-1158772,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119371-1158788,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0136-P/B0153,,1,82.35
+1119371-1158788,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119387-1158809,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0317/B0182,,1,93.67
+1119387-1158809,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119389-1158811,Auto Accessories Garage,03/30/2021,04/01/2021,Complete,0.0,A0136-P/B0166/E0159,,1,135.28
+1119389-1158811,Auto Accessories Garage,03/30/2021,04/01/2021,Complete,0.0,A0451/B0450,,1,99.56
+1119389-1158811,Auto Accessories Garage,03/30/2021,04/01/2021,Complete,0.0,Shipping,,1,35.0
+1119446-1158880,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0263,,1,47.5
+1119446-1158880,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119447-1158881,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0226,,1,58.82
+1119447-1158881,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119461-1158902,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0500/B0522,,1,97.06
+1119461-1158902,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119468-1158911,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,6.61,A0144/B0125,,1,82.35
+1119468-1158911,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,6.61,Shipping,,1,12.0
+1119481-1158926,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0225/B0225,,1,82.35
+1119481-1158926,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119503-1158954,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0418/B0418,,1,82.35
+1119503-1158954,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119505-1158956,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0232,,1,47.5
+1119505-1158956,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119513-1158965,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0150/B0150,,1,82.35
+1119513-1158965,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119519-1158971,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0021/B0021,,1,82.35
+1119519-1158971,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119523-1158975,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0046/B0046,,1,97.06
+1119523-1158975,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119539-1158991,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0260/B0133,,1,82.35
+1119539-1158991,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119561-1159014,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0317/B0182,,1,93.67
+1119561-1159014,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119566-1159019,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A1043/B1044,A1043/B1044-P,1,97.06
+1119566-1159019,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119574-1159027,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,D0131,,1,52.94
+1119574-1159027,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,11.0
+1119581-1159036,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0108,,1,47.5
+1119581-1159036,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119586-1159042,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0043/B0044/E0162,A0043/B0044-P/E0162,1,149.99
+1119586-1159042,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,23.0
+1119605-1159063,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0250/B0250/D0386,,1,135.28
+1119605-1159063,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,23.0
+1119620-1159080,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0346,,1,47.5
+1119620-1159080,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119621-1159081,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0235/B0235,,1,82.35
+1119621-1159081,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119657-1159119,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0350/B0351/C0351/D0351,,1,165.78
+1119657-1159119,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,23.0
+1119660-1159122,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0015/B0015/D0045,,1,135.28
+1119660-1159122,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,23.0
+1119664-1159126,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0243/B0243,,1,82.35
+1119664-1159126,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119667-1159129,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0242/B0242,,1,82.35
+1119667-1159129,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119668-1159130,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0019/B0019/D0051,,1,135.28
+1119668-1159130,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,23.0
+1119670-1159133,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0157/B0157,,1,82.35
+1119670-1159133,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119678-1159141,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0222/B0222,,1,82.35
+1119678-1159141,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119680-1159143,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0126/B0048,,1,82.35
+1119680-1159143,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119686-1159149,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,7.76,D0515,,1,52.94
+1119686-1159149,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,7.76,B0410,,1,34.85
+1119686-1159149,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,7.76,Shipping,,1,23.0
+1119704-1159169,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A2167/B2167,,1,88.23
+1119704-1159169,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119707-1159172,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0260,,1,47.5
+1119707-1159172,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119716-1159184,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0043/B0044/D0044,A0043/B0044-P/D0044,1,149.99
+1119716-1159184,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,23.0
+1119724-1159192,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0144/B0125,,1,82.35
+1119724-1159192,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119725-1159193,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0206,,1,47.5
+1119725-1159193,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119732-1159201,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0360/B0360,,1,82.35
+1119732-1159201,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119734-1159203,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0226,,1,58.82
+1119734-1159203,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119748-1159219,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,4.47,A0461,,1,47.5
+1119748-1159219,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,4.47,Shipping,,1,12.0
+1119763-1159236,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0131/B0131/D0131,,1,141.17
+1119763-1159236,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,23.0
+1119782-1159255,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0164/B0164,,1,82.35
+1119782-1159255,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119789-1159268,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0240/B0240,,1,88.23
+1119789-1159268,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119799-1159279,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,11.09,A0242/B0242/D0242,,1,135.28
+1119799-1159279,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,11.09,Shipping,,1,23.0
+1119806-1159287,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,A0119/B0070,,1,82.35
+1119806-1159287,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,12.0
+1119809-1159290,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,B0211,,1,34.85
+1119809-1159290,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1119812-1159293,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,8.75,A0325/B0325/C0325,,1,112.84
+1119812-1159293,Auto Accessories Garage,03/30/2021,03/30/2021,Complete,8.75,Shipping,,1,12.0
+1119829-1159313,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0108/B0146,,1,82.35
+1119829-1159313,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1119830-1159314,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,D1082,,1,52.94
+1119830-1159314,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,11.0
+1119862-1159347,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,B0499,,1,34.85
+1119862-1159347,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1119865-1159351,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0128,,1,47.5
+1119865-1159351,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1119892-1159383,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0257/B0257/C0257/D0257,,1,165.78
+1119892-1159383,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,23.0
+1119897-1159388,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,6.61,A0244/B0206,,1,82.35
+1119897-1159388,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,6.61,Shipping,,1,12.0
+1119913-1159408,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0369/B0369,,1,88.23
+1119913-1159408,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1119921-1159417,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0144/B0125,,1,82.35
+1119921-1159417,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1119939-1159435,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A3369,,1,47.5
+1119939-1159435,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1119942-1159438,Auto Accessories Garage,03/31/2021,04/01/2021,Complete,0.0,A0469/B0469,,1,82.35
+1119942-1159438,Auto Accessories Garage,03/31/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1119946-1159442,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,6.61,A0355/B0355,,1,82.35
+1119946-1159442,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,6.61,Shipping,,1,12.0
+1119949-1159445,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0115/B0115/D0115,,1,135.28
+1119949-1159445,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,23.0
+1119956-1159452,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0144/B0125,,1,82.35
+1119956-1159452,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1119966-1159465,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0196,,1,47.5
+1119966-1159465,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1119974-1159473,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0432/B0432,,1,82.35
+1119974-1159473,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1119978-1159477,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0243/B0243/D0243,,1,135.28
+1119978-1159477,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,23.0
+1120001-1159500,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0178,,1,47.5
+1120001-1159500,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120005-1159504,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,4.48,D0343,,1,52.94
+1120005-1159504,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,4.48,Shipping,,1,11.0
+1120013-1159514,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0167/B0167,,1,88.23
+1120013-1159514,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120027-1159529,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,D1411,,1,52.94
+1120027-1159529,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,11.0
+1120032-1159535,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0019/B0019/D0051,,1,135.28
+1120032-1159535,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,23.0
+1120044-1159548,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0317/B0182,,1,93.67
+1120044-1159548,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120045-1159549,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0106/B0106,,1,82.35
+1120045-1159549,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120061-1159569,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0216/B0216,,1,82.35
+1120061-1159569,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120069-1159578,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0250/B0250/D0386,,1,135.28
+1120069-1159578,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,23.0
+1120078-1159587,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A1043/B1326,,1,97.06
+1120078-1159587,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120079-1159588,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0244,,1,47.5
+1120079-1159588,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120085-1159594,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0107,,1,47.5
+1120085-1159594,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120089-1159600,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,D0113,,1,52.94
+1120089-1159600,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,11.0
+1120092-1159603,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0118,,1,47.5
+1120092-1159603,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120109-1159624,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0320/B0048,,1,93.67
+1120109-1159624,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120116-1159631,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,B0218,,1,34.85
+1120116-1159631,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120124-1159642,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0167/B0199,,1,88.23
+1120124-1159642,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120130-1159650,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0241,,1,52.94
+1120130-1159650,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120138-1159659,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0144/B0125,,1,82.35
+1120138-1159659,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120142-1159663,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0454/B0455,,1,82.35
+1120142-1159663,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120145-1159666,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A2167,,1,47.5
+1120145-1159666,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120149-1159672,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,B0272,,1,34.85
+1120149-1159672,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120164-1159691,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0015,,1,47.5
+1120164-1159691,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120166-1159694,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,D0235,,1,52.94
+1120166-1159694,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,11.0
+1120169-1159698,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A1115,,1,47.5
+1120169-1159698,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120173-1159703,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,A0454/B0455,,1,82.35
+1120173-1159703,Auto Accessories Garage,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,12.0
+1120193-1159728,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0250/B0250/D0386,,1,135.28
+1120193-1159728,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,23.0
+1120204-1159740,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0450,,1,47.5
+1120204-1159740,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120208-1159744,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0250/B0250,,1,82.35
+1120208-1159744,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120223-1159761,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0043/B0044,A0043/B0044-P,1,97.06
+1120223-1159761,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120225-1159763,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A1046,,1,47.5
+1120225-1159763,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120246-1159787,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0131/B0131/C0131,,1,118.73
+1120246-1159787,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120253-1159795,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0376/B0376/D0376,,1,135.28
+1120253-1159795,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,23.0
+1120266-1159810,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0136-P/B0159/E0159,,1,135.28
+1120266-1159810,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,23.0
+1120280-1159825,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0241,,1,52.94
+1120280-1159825,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120285-1159830,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0218/B0218,,1,82.35
+1120285-1159830,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120286-1159831,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0260/B0133,,1,82.35
+1120286-1159831,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120305-1159852,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0094/B0028,,1,88.23
+1120305-1159852,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120312-1159862,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0139/B0236,,1,82.35
+1120312-1159862,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120327-1159879,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0369/B0370,,1,88.23
+1120327-1159879,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120343-1159895,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,B0230,B0230-R,1,49.56
+1120343-1159895,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120344-1159896,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,B0370,,1,40.74
+1120344-1159896,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120346-1159898,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,B0275,,1,34.85
+1120346-1159898,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0275,,1,47.5
+1120346-1159898,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,24.0
+1120348-1159900,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0417/B0417/C0417/D0417,,1,165.78
+1120348-1159900,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,23.0
+1120354-1159906,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0250/B0250,,1,82.35
+1120354-1159906,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120356-1159908,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0103/B0103,,1,97.06
+1120356-1159908,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120376-1159929,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0317/B0182,,1,93.67
+1120376-1159929,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120380-1159933,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0070,,1,47.5
+1120380-1159933,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120401-1159954,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0224/B0224,,1,82.35
+1120401-1159954,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120413-1159966,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0244/B0206,,1,82.35
+1120413-1159966,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120414-1159967,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0128/B0128/D0128,,1,149.99
+1120414-1159967,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,23.0
+1120417-1159970,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0046/B0046,,1,97.06
+1120417-1159970,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120427-1159981,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0015/B0020,,1,88.23
+1120427-1159981,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120431-1159985,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,6.14,A0500/B0500,,1,82.35
+1120431-1159985,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,6.14,Shipping,,1,12.0
+1120435-1159989,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0296,,1,58.82
+1120435-1159989,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120436-1159990,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0167/B0167,,1,88.23
+1120436-1159990,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120441-1159995,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A1200/B1200/D1200,,1,135.28
+1120441-1159995,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,23.0
+1120452-1160006,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0015/B0015/C0015/E0238,,1,165.78
+1120452-1160006,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,23.0
+1120462-1160016,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0263/B0263,,1,82.35
+1120462-1160016,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,D0263,,1,52.94
+1120462-1160016,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,23.0
+1120466-1160021,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0510/B0510/D0510,,1,135.28
+1120466-1160021,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,23.0
+1120473-1160028,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0472/B0472/C0417,,1,112.84
+1120473-1160028,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120487-1160042,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0115,,1,47.5
+1120487-1160042,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120494-1160049,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,B0020,,1,40.74
+1120494-1160049,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120500-1160055,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0152/B0201,,1,97.06
+1120500-1160055,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120503-1160060,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0126/B0048,,1,82.35
+1120503-1160060,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120511-1160068,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0218/B0218,,1,82.35
+1120511-1160068,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A1043/B1044,A1043/B1044-P,1,97.06
+1120511-1160068,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,24.0
+1120517-1160076,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0046/B0220,,1,82.35
+1120517-1160076,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120521-1160080,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0118/B0035/D0047,,1,135.28
+1120521-1160080,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,23.0
+1120532-1160095,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0043,,1,47.5
+1120532-1160095,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120573-1160138,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,D2057,,1,52.94
+1120573-1160138,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,11.0
+1120581-1160147,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0224/B0224,,1,82.35
+1120581-1160147,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120591-1160157,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0043/B0044,A0043/B0044-P,1,97.06
+1120591-1160157,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120594-1160160,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0218/B0218,,1,82.35
+1120594-1160160,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120604-1160171,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0296/B0020,,1,99.56
+1120604-1160171,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120617-1160188,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,4.48,D0218,,1,52.94
+1120617-1160188,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,4.48,Shipping,,1,11.0
+1120618-1160189,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0212/B0188,,1,99.56
+1120618-1160189,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120634-1160210,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0131/B0131,,1,88.23
+1120634-1160210,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120637-1160213,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,A0012,,1,47.5
+1120637-1160213,Auto Accessories Garage,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,12.0
+1120645-1160221,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0178,,1,47.5
+1120645-1160221,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120656-1160234,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0147/B0147,,1,82.35
+1120656-1160234,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120661-1160239,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0038,,1,47.5
+1120661-1160239,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120665-1160244,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A1085/B1035,,1,82.35
+1120665-1160244,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120672-1160251,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0131/B0131,,1,88.23
+1120672-1160251,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120682-1160261,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0046,,1,47.5
+1120682-1160261,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120683-1160263,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0450/B0453,,1,88.23
+1120683-1160263,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120685-1160265,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0135,,1,47.5
+1120685-1160265,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120695-1160276,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0360/B0360,,1,82.35
+1120695-1160276,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120702-1160285,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A2070/B2070,,1,82.35
+1120702-1160285,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120707-1160290,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0033,,1,47.5
+1120707-1160290,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120716-1160300,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A2043/B2044,A2043/B2044-P,1,97.06
+1120716-1160300,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120720-1160304,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0192/B0192/D0192,,1,135.28
+1120720-1160304,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,23.0
+1120732-1160317,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A2022/B2022,,1,82.35
+1120732-1160317,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120733-1160318,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0325/B0325/C0325,,1,112.84
+1120733-1160318,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120735-1160321,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A3136,,1,47.5
+1120735-1160321,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120749-1160338,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A1115,,1,47.5
+1120749-1160338,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120762-1160352,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0378,,1,47.5
+1120762-1160352,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120767-1160358,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0151/B0151,,1,82.35
+1120767-1160358,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120775-1160367,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0167/B0167,,1,88.23
+1120775-1160367,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120783-1160375,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0144/B0125,,1,82.35
+1120783-1160375,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120787-1160380,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0457,,1,47.5
+1120787-1160380,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120792-1160385,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,7.82,A0296/B0020,,1,99.56
+1120792-1160385,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,7.82,Shipping,,1,12.0
+1120812-1160405,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,D0500,,1,52.94
+1120812-1160405,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,11.0
+1120816-1160409,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0421/B0421,,1,82.35
+1120816-1160409,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120826-1160419,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0070/B0070/D0070,,1,135.28
+1120826-1160419,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,23.0
+1120827-1160420,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0150,,1,47.5
+1120827-1160420,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120841-1160436,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0315/B0071,,1,82.35
+1120841-1160436,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120850-1160446,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0015/B0015/C0015/E0238,,1,165.78
+1120850-1160446,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,23.0
+1120852-1160448,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0244,,1,47.5
+1120852-1160448,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120858-1160454,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0193/B0193/D0193,,1,135.28
+1120858-1160454,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,23.0
+1120859-1160455,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0355,,1,47.5
+1120859-1160455,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120860-1160456,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,D0477,,1,52.94
+1120860-1160456,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,11.0
+1120863-1160459,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0296,,1,58.82
+1120863-1160459,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120868-1160464,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0019/B0019/D0051,,1,135.28
+1120868-1160464,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,23.0
+1120872-1160470,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0319/B0048,,1,93.67
+1120872-1160470,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120877-1160475,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0451/B0450,,1,99.56
+1120877-1160475,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120878-1160477,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0158/B0158/C0158/D0158,,1,165.78
+1120878-1160477,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,23.0
+1120904-1160504,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0477/B0477/D0477,,1,135.28
+1120904-1160504,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,23.0
+1120908-1160508,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,6.14,A0126/B0048,,1,82.35
+1120908-1160508,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,6.14,Shipping,,1,12.0
+1120910-1160510,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0046/B0220,,1,82.35
+1120910-1160510,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120932-1160534,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,D0183,,1,52.94
+1120932-1160534,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,11.0
+1120936-1160539,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0296/B0020,,1,99.56
+1120936-1160539,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120948-1160552,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0046/B0046/D0046,,1,149.99
+1120948-1160552,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,23.0
+1120949-1160553,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0144/B0125,,1,82.35
+1120949-1160553,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120977-1160585,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0411,,1,47.5
+1120977-1160585,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120982-1160590,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0250,,1,47.5
+1120982-1160590,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,D0386,,1,52.94
+1120982-1160590,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,23.0
+1120996-1160606,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0043/B0044,A0043/B0044-P,1,97.06
+1120996-1160606,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,12.0
+1120997-1160607,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0411/B0411/D0411,,1,135.28
+1120997-1160607,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,23.0
+1121003-1160613,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0510,,1,47.5
+1121025-1160639,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,11.26,A0417/B0447/E0417,,1,149.99
+1121041-1160659,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,D0371,,1,52.94
+1121044-1160663,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0108/B0155,,1,93.23
+1121046-1160666,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0244/B0206,,1,82.35
+1121048-1160668,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0015/B0015,,1,82.35
+1121060-1160680,Auto Accessories Garage,04/02/2021,04/02/2021,Complete,0.0,A0070/B0070,,1,82.35
+BD02-06833-30818,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,A0015/B0020,SA0015/B0020,1,102.35
+BD02-06833-30818,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,17.0
+BD07-06826-46705,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0178/B0179,,1,95.52
+BD07-06826-46705,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,17.0
+BD11-06829-99682,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,A1043/B1044,SA1043/B1044,1,112.58
+BD11-06829-99682,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,17.0
+BD113-7717059-3143436,MN Global LLC,04/02/2021,04/02/2021,Complete,7.46,A0167/B0167,,1,102.35
+BD113-7717059-3143436,MN Global LLC,04/02/2021,04/02/2021,Complete,7.46,Shipping,,1,17.0
+BD114-8017679-4229009,MN Global LLC,04/02/2021,04/02/2021,Complete,9.42,A0360/B0360/D0360,SA0360/B0360/D0360,1,156.92
+BD114-8017679-4229009,MN Global LLC,04/02/2021,04/02/2021,Complete,9.42,Shipping,,1,32.0
+BD24-06849-96156,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,A0178/B0179,SA0178/B0179,1,95.52
+BD24-06849-96156,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+35-1175432-354YL8,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,4.21,D0128,,1,51.56
+35-1175432-354YL8,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,4.21,Shipping,,1,13.0
+35-1175501-355661,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,D0128,,1,51.56
+35-1175501-355661,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,13.0
+35-1175707-357BHX,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,B0046,,1,48.27
+35-1175707-357BHX,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+35-1175711-357D18,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,D2128,,1,51.56
+35-1175711-357D18,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,13.0
+35-1175907-358LNW,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,B0123,,1,33.94
+35-1175907-358LNW,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+35-1176134-35AQXS,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,A0126,,1,46.26
+35-1176134-35AQXS,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,15.0
+35-1176485-35D6CS,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,B0046,,1,48.27
+35-1176485-35D6CS,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,15.0
+35-1176686-35EEV5,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,D0128,,1,51.56
+35-1176686-35EEV5,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,13.0
+35-1176802-35FB3X,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,B0046,,1,48.27
+35-1176802-35FB3X,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,15.0
+40455429-34YE6A,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,3.43,B0021,,1,33.94
+40455429-34YE6A,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,3.43,Shipping,,1,15.0
+40455879-34YG5Q,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,A0131/B0131/C0131,,1,115.64
+40455879-34YG5Q,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,15.0
+40478456-350SEJ,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,A0240/B0240,,1,85.94
+40478456-350SEJ,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,15.0
+40482687-35161N,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,A0450,,1,46.26
+40482687-35161N,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,15.0
+40485057-351DL5,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,A2167/B2199,,1,85.94
+40485057-351DL5,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,15.0
+40497391-352WCK,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,B0400,,1,39.68
+40497391-352WCK,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,A0400,,1,46.26
+40497391-352WCK,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,30.0
+40501890-353HX6,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,A0430,,1,46.26
+40501890-353HX6,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,15.0
+40501930-353HT5,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,B0150,,1,33.94
+40501930-353HT5,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,A0150,,1,46.26
+40501930-353HT5,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,30.0
+40504054-353Q3M,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,A0255,,1,46.26
+40504054-353Q3M,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,15.0
+40506680-353Z0Y,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,A0033,,1,46.26
+40506680-353Z0Y,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,15.0
+40513317-354N5B,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,A0450,,1,46.26
+40513317-354N5B,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,15.0
+40519748-355893,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,A0015/B0228,,1,80.2
+40519748-355893,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,15.0
+40520464-355AF2,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,A0151/B0151/D0151,,1,131.76
+40520464-355AF2,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,28.0
+40522526-355WCO,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,A0420/B0420,,1,80.2
+40522526-355WCO,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,15.0
+40528829-356R0I,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,4.85,E0345,,1,51.56
+40528829-356R0I,Onyx Enterprises Inc.,03/30/2021,03/30/2021,Complete,4.85,Shipping,,1,13.0
+40537331-357OVB,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,A0411/B0411,,1,80.2
+40537331-357OVB,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+40539394-357WG8,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,B0210,,1,33.94
+40539394-357WG8,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+40539837-357XHY,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,A0164/B0164,,1,80.2
+40539837-357XHY,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+40543974-358CH2,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,A0373/B0369,,1,96.97
+40543974-358CH2,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+40545235-358GD3,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,B0145,,1,33.94
+40545235-358GD3,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,A0145,,1,46.26
+40545235-358GD3,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,30.0
+40548308-3596A6,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,4.6,A0243,,1,46.26
+40548308-3596A6,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,4.6,Shipping,,1,15.0
+40551329-359JOH,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,A0244/B0206,,1,80.2
+40551329-359JOH,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+40554355-359TXW,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,A0137,,1,46.26
+40554355-359TXW,Onyx Enterprises Inc.,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,15.0
+40561421-35ANNA,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,A0150/B0150/D0150,,1,131.76
+40561421-35ANNA,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,28.0
+40565231-35AZOO,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,A0150/B0150,,1,80.2
+40565231-35AZOO,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,15.0
+40567472-35B48O,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,A0341,,1,46.26
+40567472-35B48O,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,15.0
+40575578-35CI17,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,4.52,D0452,,1,51.56
+40575578-35CI17,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,4.52,Shipping,,1,13.0
+40576666-35CNPI,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,4.52,D0153,,1,51.56
+40576666-35CNPI,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,4.52,Shipping,,1,13.0
+40577035-35CNJA,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,A0400,,1,46.26
+40577035-35CNJA,Onyx Enterprises Inc.,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,15.0
+40580736-35D6F0,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,A0250/B0250/D0386,,1,131.76
+40580736-35D6F0,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,28.0
+40581529-35DAKB,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,A0106/B0106,,1,80.2
+40581529-35DAKB,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,15.0
+40582947-35DH6S,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,D0343,,1,51.56
+40582947-35DH6S,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,13.0
+40584900-35DPQF,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,D0366,,1,51.56
+40584900-35DPQF,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,13.0
+40587953-35E15F,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,A0340/B0340,,1,80.2
+40587953-35E15F,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,15.0
+40588320-35E2RP,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,D0181,,1,51.56
+40588320-35E2RP,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,13.0
+40589649-35E7O2,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,B0207,,1,33.94
+40589649-35E7O2,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,15.0
+40600007-35FQ80,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,A0376/B0376,,1,80.2
+40600007-35FQ80,Onyx Enterprises Inc.,04/02/2021,04/02/2021,Complete,0.0,A0421/B0421,,1,80.2
+3398629,Overstock Accessories,04/01/2021,04/01/2021,Complete,8.36,A0400/B0400,SA0400/B0400,1,102.35
+3398629,Overstock Accessories,04/01/2021,04/01/2021,Complete,8.36,Shipping,,1,17.0
+3400159,Overstock Accessories,04/02/2021,04/02/2021,Complete,5.68,D0205,SD0205,1,61.4
+3400159,Overstock Accessories,04/02/2021,04/02/2021,Complete,5.68,Shipping,,1,17.0
+02-06839-28709,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,B0173,SB0173,1,40.43
+02-06839-28709,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+03-06825-00309,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0043/B0044,SA0043/B0044,1,112.58
+03-06825-00309,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+04-06837-87910,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,D0181,SD0181,1,61.4
+04-06837-87910,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+04-06838-36351,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,A0050/B0050,SA0050/B0050,1,95.52
+04-06838-36351,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+04-06841-20870,MN Global LLC,04/02/2021,04/02/2021,Complete,2.2,A0178,SA0178,1,55.09
+04-06841-20870,MN Global LLC,04/02/2021,04/02/2021,Complete,2.2,Shipping,,1,17.0
+05-06830-00422,MN Global LLC,03/31/2021,03/31/2021,Complete,5.73,A0178/B0178,SA0178/B0178,1,95.52
+05-06830-00422,MN Global LLC,03/31/2021,03/31/2021,Complete,5.73,Shipping,,1,17.0
+06-06840-93655,MN Global LLC,04/02/2021,04/02/2021,Complete,7.79,A0082/B0082/C0082,SA0082/B0082/C0082,1,130.89
+06-06840-93655,MN Global LLC,04/02/2021,04/02/2021,Complete,7.79,Shipping,,1,17.0
+07-06822-28111,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0119,SA0119,1,55.09
+07-06822-28111,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+08-06833-15355,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,A0116/B0042,SA0116/B0042,1,95.52
+08-06833-15355,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,17.0
+08-06838-28659,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,A0178/B0178,SA0178/B0178,1,95.52
+08-06838-28659,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+09-06834-60507,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,A0260,SA0260,1,55.09
+09-06834-60507,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,17.0
+10-06833-53317,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,A0212/B0188,SA0212/B0188,1,115.48
+10-06833-53317,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,17.0
+111-0226363-6458617,MN Global LLC,03/30/2021,03/30/2021,Complete,7.88,A0222/B0222,SA0222/B0222,1,95.52
+111-0226363-6458617,MN Global LLC,03/30/2021,03/30/2021,Complete,7.88,Shipping,,1,17.0
+111-0412869-0077829,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0222,SA0222,1,55.09
+111-0412869-0077829,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+111-0515923-7809812,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0106/B0106,SA0106/B0106,1,95.52
+111-0515923-7809812,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+111-1662658-7818637,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0360,SA0360,1,55.09
+111-1662658-7818637,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,17.0
+111-1803590-3185839,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0119/B0070,SA0119/B0070,1,95.52
+111-1803590-3185839,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+111-1808238-6336226,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0222/B0222/C0222,SA0222/B0222/C0222,1,130.89
+111-1808238-6336226,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+112-2876824-8875410,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0193/B0195/D0195,SA0193/B0195/D0195,1,156.92
+112-2876824-8875410,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,32.0
+112-3198137-8030642,MN Global LLC,03/30/2021,03/30/2021,Complete,5.06,A0036/B0036,SA0036/B0036,1,95.52
+112-3198137-8030642,MN Global LLC,03/30/2021,03/30/2021,Complete,5.06,Shipping,,1,17.0
+112-3332280-2297040,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0280/B0280/D0280,SA0280/B0280/D0280,1,156.92
+112-3332280-2297040,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,32.0
+112-3728412-2185000,MN Global LLC,03/31/2021,03/31/2021,Complete,3.68,D0134,SD0134,1,61.4
+112-3728412-2185000,MN Global LLC,03/31/2021,03/31/2021,Complete,3.68,Shipping,,1,17.0
+112-5948474-4866608,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0136-P/B0159/E0159,SA0136-P/B0159/E0159,1,156.92
+112-5948474-4866608,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,32.0
+113-2261606-2118609,MN Global LLC,03/31/2021,03/31/2021,Complete,9.28,A0196/B0196,SA0196/B0196,1,95.52
+113-2261606-2118609,MN Global LLC,03/31/2021,03/31/2021,Complete,9.28,Shipping,,1,17.0
+113-8339099-0134611,MN Global LLC,04/02/2021,04/02/2021,Complete,5.97,A0398/B0398,SA0398/B0398,1,95.52
+113-9805764-8297037,MN Global LLC,04/02/2021,04/02/2021,Complete,12.95,A0136-P/B0159/E0159,SA0136-P/B0159/E0159,1,156.92
+114-0880010-8307447,MN Global LLC,04/01/2021,04/01/2021,Complete,6.47,D0168,SD0168,1,61.4
+114-0880010-8307447,MN Global LLC,04/01/2021,04/01/2021,Complete,6.47,Shipping,,1,17.0
+114-0927276-8687409,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,A0119,SA0119,1,55.09
+114-0927276-8687409,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+114-1974189-9881837,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0167/B0167,SA0167/B0167,1,102.35
+114-1974189-9881837,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+114-1999947-3800266,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,A0136-P/B0159/E0159,SA0136-P/B0159/E0159,1,156.92
+114-1999947-3800266,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,32.0
+114-2514603-4926663,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,A0042/B0042,SA0042/B0042,1,95.52
+114-2514603-4926663,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+11420443024628201R,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,D0150,SD0150,1,61.4
+11420443024628201R,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,17.0
+13-06819-77569,MN Global LLC,03/30/2021,03/30/2021,Complete,9.28,A0411/B0411,SA0411/B0411,1,95.52
+13-06819-77569,MN Global LLC,03/30/2021,03/30/2021,Complete,9.28,Shipping,,1,17.0
+13-06826-07607,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A1046,SA1046,1,55.09
+13-06826-07607,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,17.0
+14-06819-54226,MN Global LLC,03/30/2021,03/30/2021,Complete,3.44,A0340,SA0340,1,55.09
+14-06819-54226,MN Global LLC,03/30/2021,03/30/2021,Complete,3.44,Shipping,,1,17.0
+14-06821-62225,MN Global LLC,03/30/2021,03/30/2021,Complete,9.28,A0015/B0015,SA0015/B0015,1,95.52
+14-06821-62225,MN Global LLC,03/30/2021,03/30/2021,Complete,9.28,Shipping,,1,17.0
+14-06828-56654,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0481/B0481,SA0481/B0481,1,95.52
+14-06828-56654,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,17.0
+14-06834-12353,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,A0296/B0020,SA0296/B0020,1,115.48
+14-06834-12353,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,17.0
+15-06839-19226,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,A0296/B0020,SA0296/B0020,1,115.48
+15-06839-19226,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+16-06820-47261,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0136-P/B0159,SA0136-P/B0159,1,95.52
+16-06820-47261,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+16-06821-39985,MN Global LLC,03/30/2021,03/30/2021,Complete,2.73,A0329,SA0329,1,68.23
+16-06821-39985,MN Global LLC,03/30/2021,03/30/2021,Complete,2.73,Shipping,,1,17.0
+16-06823-83416,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0015,SA0015,1,55.09
+16-06823-83416,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+17-06824-19435,MN Global LLC,03/31/2021,03/31/2021,Complete,10.83,A0131/B0131/C0131,SA0131/B0131/C0131,1,137.72
+17-06824-19435,MN Global LLC,03/31/2021,03/31/2021,Complete,10.83,Shipping,,1,17.0
+17-06826-37335,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0176,SA0176,1,55.09
+17-06826-37335,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,17.0
+18-06836-63697,MN Global LLC,04/02/2021,04/02/2021,Complete,10.69,A0043/B0044,SA0043/B0044,1,112.58
+18-06836-63697,MN Global LLC,04/02/2021,04/02/2021,Complete,10.69,Shipping,,1,17.0
+19-06820-75110,MN Global LLC,03/30/2021,03/30/2021,Complete,12.2,A0136-P/B0153/C0153,SA0136-P/B0153/C0153,1,130.89
+19-06820-75110,MN Global LLC,03/30/2021,03/30/2021,Complete,12.2,Shipping,,1,17.0
+19-06826-11788,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0260,SA0260,1,55.09
+19-06826-11788,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,17.0
+19-06836-70612,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,D0173,SD0173,1,61.4
+19-06836-70612,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+20-06820-42830,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0242/B0242,SA0242/B0242,1,95.52
+20-06820-42830,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+20-06821-05765,MN Global LLC,03/30/2021,03/30/2021,Complete,3.68,D0513,SD0513,1,61.4
+20-06821-05765,MN Global LLC,03/30/2021,03/30/2021,Complete,3.68,Shipping,,1,17.0
+20-06823-47877,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0257/B0257,SA0257/B0257,1,95.52
+20-06823-47877,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,17.0
+20-06824-73267,MN Global LLC,03/31/2021,03/31/2021,Complete,4.87,A0167,SA0167,1,55.09
+20-06824-73267,MN Global LLC,03/31/2021,03/31/2021,Complete,4.87,Shipping,,1,17.0
+20-06829-35325,MN Global LLC,04/01/2021,04/01/2021,Complete,8.41,A0411/B0411/D0411,SA0411/B0411/D0411,1,156.92
+20-06829-35325,MN Global LLC,04/01/2021,04/01/2021,Complete,8.41,Shipping,,1,32.0
+20-06834-52491,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,A0191/B0191/D0191,SA0191/B0191/D0191,1,156.92
+20-06834-52491,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,32.0
+21-06828-51164,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0015/B0020,SA0015/B0020,1,102.35
+21-06828-51164,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,17.0
+21-06828-99407,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,A0015,SA0015,1,55.09
+21-06828-99407,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,17.0
+21-06831-60656,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,A0015/B0020,SA0015/B0020,1,102.35
+21-06831-60656,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,17.0
+21-06838-59860,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,A0240/B0240,SA0240/B0240,1,102.35
+21-06838-59860,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+23-06825-91405,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A0118/B0035/D0047,SA0118/B0035/D0047,1,156.92
+23-06825-91405,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,32.0
+24-06831-65315,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0136-P/B0159/E0159,SA0136-P/B0159/E0159,1,156.92
+24-06831-65315,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,32.0
+24-06833-26279,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0469/B0469,SA0469/B0469,1,95.52
+24-06833-26279,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+25-06818-26553,MN Global LLC,03/30/2021,03/30/2021,Complete,6.28,A0136-P/B0159/E0159,SA0136-P/B0159/E0159,1,156.92
+25-06818-26553,MN Global LLC,03/30/2021,03/30/2021,Complete,6.28,Shipping,,1,32.0
+25-06822-92178,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,A1246,SA1246,1,55.09
+25-06822-92178,MN Global LLC,03/31/2021,03/31/2021,Complete,0.0,Shipping,,1,17.0
+26-06830-87922,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,A0043/B0044,SA0043/B0044,1,112.58
+26-06830-87922,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,17.0
+26-06832-73066,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,A0108/B0041,SA0108/B0041,1,95.52
+26-06832-73066,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,17.0
+26-06834-96938,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,A0299/B0299,SA0299/B0299,1,95.52
+26-06834-96938,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+26-06837-47571,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,A0260,SA0260,1,55.09
+26-06837-47571,MN Global LLC,04/02/2021,04/02/2021,Complete,0.0,Shipping,,1,17.0
+27-06817-78895,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,A0241,SA0241,1,61.4
+27-06817-78895,MN Global LLC,03/30/2021,03/30/2021,Complete,0.0,Shipping,,1,17.0
+27-06829-61651,MN Global LLC,04/01/2021,04/01/2021,Complete,5.95,A0331,SA0331,1,55.09
+27-06829-61651,MN Global LLC,04/01/2021,04/01/2021,Complete,5.95,Shipping,,1,17.0
+27-06832-27221,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,A0015/B0228,SA0015/B0228,1,95.52
+27-06832-27221,MN Global LLC,04/01/2021,04/01/2021,Complete,0.0,Shipping,,1,17.0
