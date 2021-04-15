@@ -3,7 +3,11 @@ import os, uuid
 import pandas as pd
 from datetime import datetime, timedelta
 import io
-
+import pyodbc
+import config
+from sqlalchemy import event
+import sqlalchemy
+import urllib
 
 from get_csv import get_pickup
 
@@ -54,16 +58,28 @@ def pickup_csv():
     df4.drop(df4.tail(1).index, inplace=True)
     df3 = df3.append(df4)
 
-    df.to_csv(
-        upload_file_path,
-        index=False,
-        header=True,
-        quotechar='"',
+    conn = pyodbc.connect(config.connection)
+    cursor = conn.cursor()
+    cursor.fast_executemany = True
+
+    db_params = urllib.parse.quote_plus(config.connection)
+    engine = sqlalchemy.create_engine(
+        "mssql+pyodbc:///?odbc_connect={}".format(db_params)
     )
 
-    df3.to_csv(
-        upload_file_path2,
-        index=False,
-        header=True,
-        quotechar='"',
+    df.to_sql(
+        "PartsReportCurrent", engine, index=False, if_exists="replace", schema="dbo"
     )
+    df3.to_sql(
+        "PartsReportPrevious", engine, index=False, if_exists="replace", schema="dbo"
+    )
+    # for index, row in df.iterrows():
+    #     cursor.execute(
+    #         """
+    #         INSERT INTO PartsReportCurrent([Part Number],[Qty])
+    #         values (?,?)
+    #         """,
+    #         row["Part Number"],
+    #         row["Qty"],
+    #     )
+    #     conn.commit()
