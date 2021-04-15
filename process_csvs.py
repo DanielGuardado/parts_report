@@ -16,17 +16,10 @@ local_path = "./data"
 
 
 def pickup_csv():
-
     csv = get_pickup(1, "current")
     csv2 = get_pickup(2, "current")
     csv3 = get_pickup(1, "previous")
     csv4 = get_pickup(2, "previous")
-
-    local_file_name = f"CurrentMonth.csv"
-    local_file_name2 = f"LastMonth.csv"
-
-    upload_file_path = os.path.join(local_path, local_file_name)
-    upload_file_path2 = os.path.join(local_path, local_file_name2)
 
     df = pd.read_csv(
         io.StringIO(csv.decode("utf-8")), skiprows=5, header=0, engine="python"
@@ -73,13 +66,3 @@ def pickup_csv():
     df3.to_sql(
         "PartsReportPrevious", engine, index=False, if_exists="replace", schema="dbo"
     )
-    # for index, row in df.iterrows():
-    #     cursor.execute(
-    #         """
-    #         INSERT INTO PartsReportCurrent([Part Number],[Qty])
-    #         values (?,?)
-    #         """,
-    #         row["Part Number"],
-    #         row["Qty"],
-    #     )
-    #     conn.commit()
