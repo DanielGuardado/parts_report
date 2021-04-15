@@ -2,18 +2,20 @@ import requests
 from config import config
 
 
-def get_pickup():
+def get_pickup(sites):
+    site = "site%5B%5D" if sites == 1 else "site%5B%5D=3&site%5B%5D=6"
     csv = requests.get(
-        f"https://krameramerica.locateinv.com/report/114/run?site%5B%5D=4&removelineswithnovalues=AND&orderby=1&includedeletedsites=AND&formatassinglepage=1&daterange=Current+Month&daterange2=Current+Month&format=csv",
+        f"https://krameramerica.locateinv.com/report/114/run?{site}=4&removelineswithnovalues=AND&orderby=1&includedeletedsites=AND&formatassinglepage=1&daterange=Current+Month&daterange2=Current+Month&format=csv",
         auth=(config["key"]),
     ).content
 
     return csv
 
 
-def get_pickup_prev():
+def get_pickup_prev(sites):
+    site = "site%5B%5D" if sites == 1 else "site%5B%5D=3&site%5B%5D=6"
     csv = requests.get(
-        f"https://krameramerica.locateinv.com/report/114/run?site%5B%5D=4&removelineswithnovalues=AND&orderby=1&includedeletedsites=AND&formatassinglepage=1&daterange=Previous+Month&daterange2=Previous+Month&format=csv",
+        f"https://krameramerica.locateinv.com/report/114/run?{site}=4&removelineswithnovalues=AND&orderby=1&includedeletedsites=AND&formatassinglepage=1&daterange=Previous+Month&daterange2=Previous+Month&format=csv",
         auth=(config["key"]),
     ).content
 

@@ -1,4 +1,6 @@
-from process_csvs import pickup_csv, pickup_csv_prev
+from process_csvs import pickup_csv, pickup_csv2
+
+# , pickup_csv_prev
 
 # , invoice_csv, sales_order_csv
 from apscheduler.schedulers.blocking import BlockingScheduler
@@ -24,7 +26,7 @@ from datetime import datetime
 # scheduler.add_job(salesOrderCSV, "interval", hours=24, start_date="2021-04-02 17:50:40")
 # scheduler.start()
 
-pickup_csv()
-pickup_csv_prev()
-# invoice_csv()
+pickup_csv2()
+# pickup_csv_prev()
+# # invoice_csv()
 # sales_order_csv()
